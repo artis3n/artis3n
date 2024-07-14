@@ -7,7 +7,7 @@ The secure thing should be the easiest thing for a developer to do.
 
 Some of my public projects include:
 - [`artis3n.tailscale`](https://github.com/artis3n/ansible-role-tailscale) Ansible role to manage [Tailscale](https://tailscale.com) on your servers
-- [`digitalocean/github-oidc/vault`](https://github.com/digitalocean/terraform-vault-github-oidc) Terraform module for GitHub OIDC auth to Hashicorp Vault from GitHub Action runners
+- [`digitalocean/github-oidc/vault`](https://github.com/digitalocean-labs/terraform-vault-github-oidc) Terraform module for GitHub OIDC auth to Hashicorp Vault from GitHub Action runners
 - [`artis3n/ansible_galaxy_collection`](https://github.com/artis3n/ansible_galaxy_collection) GitHub Action to deploy an Ansible collection to Ansible Galaxy
 
 <!--
