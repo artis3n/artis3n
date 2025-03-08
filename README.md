@@ -1,6 +1,6 @@
 Hello there.
 
-I've been a security engineer and penetration tester and currently trick companies into letting me lead Application Security programs. You may have [read an article](https://www.digitalocean.com/blog/enabling-engineering-teams-developer-first-secrets-management) or [heard me speak](https://youtu.be/BPF18NVKI1A?si=jPmnbUDW32YjbmXS) about the importance of a collaborative, enablement-minded security organization.
+I've been a security engineer and penetration tester and currently trick companies into letting me lead Application Security programs. You may have [read an article](https://blog.artis3nal.com/#:~:text=Contextual,-Vulnerability%20Management%20With) or [heard me speak](https://blog.artis3nal.com/#:~:text=OWASP,-2023%20Global%20AppSec) about the importance of a collaborative, enablement-minded security organization.
 
 I tend to build open source projects around improving the user experience of security tooling and integrations.
 The secure thing should be the easiest thing for a developer to do.
@@ -10,8 +10,9 @@ Some of my public projects include:
 - [`digitalocean/github-oidc/vault`](https://github.com/digitalocean-labs/terraform-vault-github-oidc) Terraform module for GitHub OIDC auth to Hashicorp Vault from GitHub Action runners
 - [`artis3n/ansible_galaxy_collection`](https://github.com/artis3n/ansible_galaxy_collection) GitHub Action to deploy an Ansible collection to Ansible Galaxy
 
-<!--
 ![](https://komarev.com/ghpvc/?username=artis3n&style=flat-square)
+
+<!--
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=artis3n)](https://github.com/ryo-ma/github-profile-trophy)
 
