@@ -1,6 +1,6 @@
 Hello there.
 
-I've been a security engineer and penetration tester and currently trick companies into letting me lead Application Security programs. You may have [read an article](https://blog.artis3nal.com/#:~:text=Contextual,-Vulnerability%20Management%20With) or [heard me speak](https://blog.artis3nal.com/#:~:text=OWASP,-2023%20Global%20AppSec) about the importance of a collaborative, enablement-minded security organization.
+I've been a security engineer and penetration tester and currently trick companies into letting me lead Application and Product Security programs. You may have [read an article](https://blog.artis3nal.com/#:~:text=Contextual,-Vulnerability%20Management%20With) or [heard me speak](https://blog.artis3nal.com/#:~:text=OWASP,-2023%20Global%20AppSec) about the importance of a collaborative, enablement-minded security organization.
 
 I tend to build open source projects around improving the user experience of security tooling and integrations.
 The secure thing should be the easiest thing for a developer to do.
